@@ -6,4 +6,3 @@
 ▷ info_modi.jsp, info_modi_ok.jsp,<br/> 
 ▷ inquire_history_regist.jsp, inquire_history_regist_ok.jsp<br/>
 ▷ mypage_login.jsp, mypage_login_ok.jsp<br/>
-▷ search.jsp
