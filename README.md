@@ -6,3 +6,15 @@
 ▷ info_modi.jsp, info_modi_ok.jsp (계정 정보 수정 기능)<br/> 
 ▷ inquire_history_regist.jsp, inquire_history_regist_ok.jsp (1:1 문의 기능) <br/>
 ▷ mypage_login.jsp, mypage_login_ok.jsp(마이페이지 들어가기 전 다시 한 번 로그인하는 기능) <br/>
+▷ mypage_login.jsp, mypage_login_ok.jsp(마이페이지 들어가기 전 다시 한 번 로그인하는 기능) <br/>
+
+<br/>
+
+#### 1) 프로젝트 구조도(흐름도)
+<br/>
+
+
+![배민 구조도](https://user-images.githubusercontent.com/74960408/146306733-43f86760-1808-460c-8de3-69fbf8f8806e.jpg)
+
+
+#### 2) 프로젝트 구현 (작성자가 작업한 것 위주)
