@@ -38,19 +38,25 @@
 <br/>
 ##### (2) 1:1 문의하기
 <br/>
+
 ![moon2_write](https://user-images.githubusercontent.com/74960408/146307581-e8516db4-166a-484f-8338-84fee7ada36e.jpg)
+
 <br/>
 1:1문의 페이지에서 [질문하기] 버튼을 클릭하면 위와 같이 질문을 할 수 있도록 구현돼있다.
 <br/>
 <br/>
+
 ![moon2_list](https://user-images.githubusercontent.com/74960408/146307750-20b0040e-8bd1-4257-aefd-2af4724ce179.jpg)
+
 <br/>
 질문하기를 통해 질문을 남기면 위와 같은 질문내용과 답변 대기 중의 내용을 볼 수 있다.
 <br/>
 <br/>
 ##### (3) 정보수정하기
 <br/>
+
 ![edit_myeveryThing](https://user-images.githubusercontent.com/74960408/146307841-7e6d8921-86d6-405e-ab1d-698e35ff3093.jpg)
+
 <br/>
 위의 페이지는 접속유저의 정보를 수정하는 기능을 가지고 있다.<br/>
 비밀번호 외의 다른 목록에는 db에 있는 기존의 정보(변경하려고 하기 전의 정보)가 입력되어져 있다. 
