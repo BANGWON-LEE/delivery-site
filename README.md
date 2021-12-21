@@ -21,7 +21,7 @@
 
 #### 2) 프로젝트 구현 (작성자가 작업한 것 위주)
 
-##### (1) 계정 찾기
+(1) 계정 찾기
 <br/>
 
 ![edit_myInfo](https://user-images.githubusercontent.com/74960408/146307224-b05fab7f-184b-4753-8de2-a21edd9e4ffa.jpg)
@@ -38,7 +38,7 @@
 위의 페이지는 이전에 입력한 정보로 찾은 아이디이다.
 <br/>
 <br/>
-##### (2) 1:1 문의하기
+(2) 1:1 문의하기
 <br/>
 
 ![moon2_write](https://user-images.githubusercontent.com/74960408/146307581-e8516db4-166a-484f-8338-84fee7ada36e.jpg)
@@ -54,7 +54,7 @@
 질문하기를 통해 질문을 남기면 위와 같은 질문내용과 답변 대기 중의 내용을 볼 수 있다.
 <br/>
 <br/>
-##### (3) 정보수정하기
+(3) 정보수정하기
 <br/>
 
 ![edit_myeveryThing](https://user-images.githubusercontent.com/74960408/146307841-7e6d8921-86d6-405e-ab1d-698e35ff3093.jpg)
